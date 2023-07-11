@@ -18,7 +18,7 @@
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
 - Personal website [link](https://)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://www.dropbox.com/s/qolp49qem8ybraj/karim%20Asaad.pdf?dl=0]
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.dropbox.com/s/qolp49qem8ybraj/karim%20Asaad.pdf?dl=0)
 
 <br><br>
 
