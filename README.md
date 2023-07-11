@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karim El Refai</h1>
 <h3 align="center">💡 Graphic Designer & Front-End Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urfavcrow23" alt="urfavcrow23" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/urfavcrow23" target="blank"><img src="https://img.shields.io/twitter/follow/urfavcrow23?logo=twitter&style=for-the-badge" alt="urfavcrow23" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/urfavcrow23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="urfavcrow23" height="30" width="40" /></a>
