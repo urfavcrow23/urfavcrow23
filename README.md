@@ -127,9 +127,10 @@
 
 <ul>
 
+
 <li>
-<a href="https://linkedin.com/in/karim-el-refai-03748a249" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Karim El Refai-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://twitter.com/urfavcrow23" target="_blank">
+<img src="https://img.shields.io/badge/facebook:  El Refai-%2300acee.svg?color=1877F2&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -144,11 +145,27 @@
 <br>
 
 <li>
+<a href="https://linkedin.com/in/karim-el-refai-03748a249" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Karim El Refai-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+
+<br>
+<li>
+<a href="https://www.instagram.com/urfavcrow23/" target="_blank">
+<img src="https://img.shields.io/badge/instagram:  El Refai-%2300acee.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+<li>
 <a href="mailto:kariemasaad992@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Karim El Refai-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
+
 </ul>
 </div>
 
