@@ -12,12 +12,12 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "/resources/" width = 50px></picture> **About me**
 <br>
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
-- Personal website [link](https://)
+- Personal website [link](https://urfavcrow23.framer.website/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.dropbox.com/s/qolp49qem8ybraj/karim%20Asaad.pdf?dl=0)
 
 <br><br>
