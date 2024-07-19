@@ -12,7 +12,7 @@
 
 <br>
 
-## <picture><img src = "/resources/" width = 50px></picture> **About me**
+## <picture><img src = "/resources/about_me.gif" width = 50px></picture> **About me**
 <br>
 
 - A passionate Self-taught Front-end developer
