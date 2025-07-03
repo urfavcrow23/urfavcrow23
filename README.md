@@ -168,6 +168,14 @@
 </li>
 
 
+<div align="center" style="margin-top: 3rem; padding: 1.5rem; background: rgba(255, 255, 255, 0.05); border-radius: 12px;">
+  <p style="margin: 0;">✨ Thanks for visiting my profile! ✨</p>
+  <div style="margin-top: 0.5rem;">
+    <img src="https://profile-counter.glitch.me/urfavcrow23/count.svg" alt="Visitor Count">
+  </div>
+</div>
+
+
 </ul>
 
 <br>
